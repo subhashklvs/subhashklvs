@@ -151,19 +151,6 @@ A growing collection of AI/ML projects — prompt engineering, LLM integrations 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=subhashklvs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashklvs&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=subhashklvs&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9"/>
-
-</div>
-
 ---
 
 ## 🏆 Achievements
@@ -180,14 +167,6 @@ A growing collection of AI/ML projects — prompt engineering, LLM integrations 
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhashklvs&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&hide_border=true)](https://github.com/subhashklvs)
-
-</div>
 
 ---
 
