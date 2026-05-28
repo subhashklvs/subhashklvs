@@ -64,10 +64,8 @@ class subhashklvs:
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-0E75B6?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1565C0?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1976D2?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-1E88E5?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0D47A1?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **🌐 Web & Frameworks**
 
