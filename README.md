@@ -105,11 +105,16 @@ fun_fact: "Always learning, always building, always improving 🚀"
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhashklvs&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" />
+![Stars](https://img.shields.io/badge/Total%20Stars-89-A855F7?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-32-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Total%20Commits-1.2K-6D28D9?style=for-the-badge&logo=git&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-41-5B21B6?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-25%20Days-FF6B6B?style=for-the-badge&logo=fire&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
