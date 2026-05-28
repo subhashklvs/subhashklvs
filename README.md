@@ -1,81 +1,65 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subhash&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50"/>
+
 <div align="center">
 
-# Hi 👋, I'm Subhash
-
-### Software Engineer | Python Developer | AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Python+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Applications;Always+Learning%2C+Always+Growing+🚀" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=%3E+Python+Developer+%7C+AI+Enthusiast;%3E+Building+Real-World+Applications;%3E+Exploring+LLMs%2C+RAG+%26+Agentic+AI;%3E+Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhashklvs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhashklvs)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhashklvs@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhashklvs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23A855F7.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhashklvs)
 
-![Profile Views](https://komarev.com/ghpvc/?username=subhashklvs&label=Profile%20Views&color=7C3AED&style=flat)
-![Followers](https://img.shields.io/github/followers/subhashklvs?label=Followers&style=social)
+<img src="https://komarev.com/ghpvc/?username=subhashklvs&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class Subhash:
-    def __init__(self):
-        self.name        = "Subhash"
-        self.location    = "Andhra Pradesh, India 📍"
-        self.education   = "B.Tech Graduate (2025)"
-        self.role        = "Software Engineer | Python Developer"
-        self.status      = "🟢 Open to Work"
+```yaml
+name       : Subhash
+location   : Andhra Pradesh, India
+education  : B.Tech Graduate (2025)
+email      : subhashklvs@gmail.com
+status     : Open to Work 🟢
 
-    @property
-    def interests(self):
-        return ["Python", "Flask", "AI/ML", "LLMs", "RAG", "Agentic AI", "Cloud Technologies"]
+passions:
+  - Building real-world apps with Python, Flask & AI/ML
+  - Turning ideas into scalable, user-friendly solutions
+  - Exploring LLMs, RAG and Agentic AI
+  - Cloud Technologies & Modern Dev
 
-    @property
-    def currently_exploring(self):
-        return ["Large Language Models (LLMs)", "Retrieval-Augmented Generation (RAG)",
-                "Agentic AI", "Cloud Technologies ☁️"]
+currently_learning:
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - Agentic AI & Automation
+  - Cloud Technologies ☁️
 
-    def life_motto(self):
-        return "Always learning, always building, always improving 🚀"
-
-me = Subhash()
-print(me.life_motto())
+fun_fact: "Always learning, always building, always improving 🚀"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<div align="center">
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&theme=dark" />
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### Web & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask&theme=dark" />
 
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,tensorflow&theme=dark" />
+
+</div>
 
 ---
 
@@ -83,12 +67,24 @@ print(me.life_motto())
 
 <div align="center">
 
-| 🛒 E-Commerce Platform | 🤖 RAG QA Bot | 🧠 AI Projects |
-|---|---|---|
-| A full-featured e-commerce web application with user authentication, product management, cart, and order management. | Retrieval-Augmented Generation based QA bot that answers questions using documents and contexts. | Collection of AI/ML projects including prompt engineering, LLM integrations and intelligent automation. |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) ![FAISS](https://img.shields.io/badge/-FAISS-blue?style=flat) ![LLM](https://img.shields.io/badge/-LLM-purple?style=flat) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/-LLMs-purple?style=flat) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![AI](https://img.shields.io/badge/-AI-ff6f00?style=flat) |
+<a href="https://github.com/subhashklvs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=subhashklvs&repo=ecommerce-platform&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+</a>
+<a href="https://github.com/subhashklvs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=subhashklvs&repo=rag-qa-bot&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+</a>
 
 </div>
+
+<br/>
+
+### 📦 Project Highlights
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🛒 **E-Commerce Platform** | Full-featured web app with auth, product management, cart & order system | `Python` `Flask` `MySQL` `Bootstrap` |
+| 🤖 **RAG QA Bot** | RAG-based QA bot that answers questions from documents using vector search | `Python` `LangChain` `FAISS` `LLM` |
+| 🧠 **AI Projects** | Collection of AI/ML projects — prompt engineering, LLM integrations, automation | `Python` `OpenAI` `LLMs` `TensorFlow` |
 
 ---
 
@@ -96,14 +92,14 @@ print(me.life_motto())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhashklvs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashklvs&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhashklvs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashklvs&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=subhashklvs&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=subhashklvs&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
 
 </div>
 
@@ -113,27 +109,17 @@ print(me.life_motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=subhashklvs&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=subhashklvs&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📉 Contribution Graph
 
 <div align="center">
 
-[![Subhash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhashklvs&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhashklvs&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -141,10 +127,19 @@ print(me.life_motto())
 
 <div align="center">
 
-### 💬 "The best way to predict the future is to build it." — Alan Kay
+### 💬 Words I Live By
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=footer&text=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.%22&fontSize=18&fontColor=fff&fontAlignY=50&desc=—%20Alan%20Kay&descAlignY=75&descAlign=50" />
+
+</div>
 
 <br/>
 
-⭐️ **Thanks for visiting!** Let's connect and build something amazing together! 🚀
+<div align="center">
+
+⭐️ **Thanks for visiting my profile!**
+**Let's connect and build something amazing together! 🚀**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
