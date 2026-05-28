@@ -67,24 +67,51 @@ fun_fact: "Always learning, always building, always improving 🚀"
 
 <div align="center">
 
-<a href="https://github.com/subhashklvs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=subhashklvs&repo=ecommerce-platform&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-</a>
-<a href="https://github.com/subhashklvs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=subhashklvs&repo=rag-qa-bot&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-</a>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🛒 E-Commerce Platform</h3>
+      <p align="center">Full-featured e-commerce web app with user authentication, product management, cart, and order management.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/subhashklvs"><img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 RAG QA Bot</h3>
+      <p align="center">Retrieval-Augmented Generation based QA bot that answers questions using documents and vector contexts.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM-A855F7?style=flat-square&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/subhashklvs"><img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 AI Projects</h3>
+      <p align="center">Collection of AI/ML projects including prompt engineering, LLM integrations and intelligent automation.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLMs-A855F7?style=flat-square&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/subhashklvs"><img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<br/>
-
-### 📦 Project Highlights
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🛒 **E-Commerce Platform** | Full-featured web app with auth, product management, cart & order system | `Python` `Flask` `MySQL` `Bootstrap` |
-| 🤖 **RAG QA Bot** | RAG-based QA bot that answers questions from documents using vector search | `Python` `LangChain` `FAISS` `LLM` |
-| 🧠 **AI Projects** | Collection of AI/ML projects — prompt engineering, LLM integrations, automation | `Python` `OpenAI` `LLMs` `TensorFlow` |
 
 ---
 
