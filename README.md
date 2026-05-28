@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Subhash&fontSize=80&fontColor=58A6FF&animation=fadeIn&desc=Software%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=78&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=subhashklvs&fontSize=75&fontColor=58A6FF&animation=fadeIn&desc=Software%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=78&descColor=ffffff"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=🐍+Python+%7C+Flask+%7C+AI%2FML+Developer;🤖+Exploring+LLMs%2C+RAG+%26+Agentic+AI;☁️+Cloud+Technologies+Enthusiast;🚀+B.Tech+Graduate+2025+%7C+Open+to+Work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%7C+Flask+%7C+AI%2FML+Developer;Exploring+LLMs%2C+RAG+%26+Agentic+AI;Cloud+Technologies+Enthusiast;B.Tech+Graduate+2025+%7C+Open+to+Work" />
 
 <br/>
 
@@ -19,16 +19,16 @@
 ## 👨‍💻 About Me
 
 ```python
-class Subhash:
-    name       = "Subhash"
-    location   = "Andhra Pradesh, India 🇮🇳"
+class subhashklvs:
+    name       = "subhashklvs"
+    location   = "Andhra Pradesh, India"
     education  = "B.Tech Graduate (2025)"
     email      = "subhashklvs@gmail.com"
-    status     = "Open to Work 🟢"
+    status     = "Open to Work"
 
     skills     = ["Python", "Flask", "AI/ML", "LLMs", "RAG", "Agentic AI"]
-    learning   = ["LLMs", "RAG Systems", "Agentic AI", "Cloud Technologies ☁️"]
-    passion    = "Turning ideas into scalable, impactful solutions 🚀"
+    learning   = ["LLMs", "RAG Systems", "Agentic AI", "Cloud Technologies"]
+    passion    = "Turning ideas into scalable, impactful solutions"
 
     def say_hi(self):
         print("Always learning. Always building. Always improving.")
@@ -42,19 +42,33 @@ class Subhash:
 
 **💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&theme=dark"/>
+![Python](https://img.shields.io/badge/Python-0E75B6?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1565C0?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1976D2?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-1E88E5?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0D47A1?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **🌐 Web & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask&theme=dark"/>
+![HTML5](https://img.shields.io/badge/HTML5-0E75B6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1565C0?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1976D2?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1E88E5?style=for-the-badge&logo=flask&logoColor=white)
 
 **🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
+![MySQL](https://img.shields.io/badge/MySQL-0E75B6?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1565C0?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **🔧 Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,tensorflow&theme=dark"/>
+![Git](https://img.shields.io/badge/Git-0E75B6?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1976D2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1E88E5?style=for-the-badge&logo=postman&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D47A1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0E75B6?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-1565C0?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -137,11 +151,12 @@ A growing collection of AI/ML projects — prompt engineering, LLM integrations 
 
 <div align="center">
 
-![Stars](https://img.shields.io/badge/⭐%20Total%20Stars-89-58A6FF?style=for-the-badge)
-![Repos](https://img.shields.io/badge/📦%20Public%20Repos-32-1976D2?style=for-the-badge)
-![Commits](https://img.shields.io/badge/💻%20Total%20Commits-1.2K-1565C0?style=for-the-badge)
-![Followers](https://img.shields.io/badge/👥%20Followers-41-0E75B6?style=for-the-badge)
-![Streak](https://img.shields.io/badge/🔥%20Best%20Streak-25%20Days-79C0FF?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Total%20Stars-89-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-32-1976D2?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Total%20Commits-1.2K-1565C0?style=for-the-badge&logo=git&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-41-0E75B6?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Best%20Streak-25%20Days-79C0FF?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -151,7 +166,7 @@ A growing collection of AI/ML projects — prompt engineering, LLM integrations 
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhashklvs&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&area_color=58A6FF&hide_border=true)](https://github.com/subhashklvs)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhashklvs&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&area_color=1E88E5&hide_border=true)](https://github.com/subhashklvs)
 
 </div>
 
