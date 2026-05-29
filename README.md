@@ -37,6 +37,8 @@
 </td>
 <td width="45%" valign="top" align="center">
 
+<br/><br/><br/><br/>
+
 <img src="https://github.com/subhashklvs.png" width="130" style="border-radius:50%"/>
 
 **subhashklvs**
@@ -177,7 +179,7 @@ Collection of AI/ML projects including prompt engineering, LLM integrations and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashklvs&layout=donut&langs_count=7&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashklvs&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" width="55%"/>
 
 </div>
 
