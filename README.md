@@ -163,11 +163,15 @@ Collection of AI/ML projects including prompt engineering, LLM integrations and 
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhashklvs&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&hide_border=true)](https://github.com/subhashklvs)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhashklvs/subhashklvs/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhashklvs/subhashklvs/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/subhashklvs/subhashklvs/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
