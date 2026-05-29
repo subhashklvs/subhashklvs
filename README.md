@@ -24,7 +24,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ## 🧑‍💻 About Me
 
@@ -35,9 +35,17 @@
 - 🚀 &nbsp; Always learning, always building, always improving.
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhashklvs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github.com/subhashklvs.png" width="130" style="border-radius:50%"/>
+
+**subhashklvs**
+
+`Software Engineer | Python Developer`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhashklvs)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhashklvs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 </tr>
@@ -169,7 +177,7 @@ Collection of AI/ML projects including prompt engineering, LLM integrations and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashklvs&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashklvs&layout=donut&langs_count=7&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" width="45%"/>
 
 </div>
 
